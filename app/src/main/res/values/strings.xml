@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="soma">Soma:</string>
+    <string name="x">X</string>
+    <string name="resultado">Resultado</string>
+    <string name="calculadora">CALCULADORA</string>
+    <string name="variavel_x">Variável X:</string>
+    <string name="variavel_y">Variável Y:</string>
+    <string name="y">Y</string>
+    <string name="set_variavel_x">Set Variável X</string>
+    <string name="set_variavel_y">Set Variável Y</string>
+    <string name="calcular">Calcular</string>
+    <string name="realizando_calculos">Realizando Cálculos</string>
+</resources>
